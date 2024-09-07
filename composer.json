@@ -1,0 +1,6 @@
+{
+    "name": "hatcat/init",
+    "description": "Initial commit",
+    "type": "metapackage",
+    "require": {}
+}
